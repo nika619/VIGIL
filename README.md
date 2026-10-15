@@ -127,3 +127,8 @@ VIGIL is designed to feel like a native instrument panel in a luxury electric ve
 ---
 
 <sub>⚠ VIGIL is a supplementary wellness indicator, not a medical or legal clearance device. The ultimate responsibility for safe vehicle operation rests solely with the operator.</sub>
+
+
+---
+
+Built by [Mayank Tiwari](https://github.com/nika619) · [Hire me on Contra](https://contra.com/mayank_tiwari_a4vkcjsh)
